@@ -1,0 +1,36 @@
+body {
+  font-family: "montserrat", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #92929280;
+}
+
+#projects {
+  background-color: #92929280;
+}
+
+#contact {
+  background-color: #92929280;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.card-text {
+  font-weight: 500;
+}
+
+.lead {
+  font-weight: 500;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
